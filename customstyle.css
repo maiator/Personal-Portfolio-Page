@@ -1,0 +1,78 @@
+body {
+  padding-top: 80px;
+}
+
+.gallery {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+
+
+.navcolor {
+  background-color: #333;
+  
+}
+
+#aboutMeLink {
+  padding-top: 90px;
+}
+
+#portfolioLink {
+  padding-top: 90px;
+}
+
+#contactLink {
+  padding-top: 90px;
+}
+
+
+
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+.navbar {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  font-size: 12px;
+  letter-spacing: 5px;
+  
+}
+
+li {
+  color: #2D3142;
+}
+
+
+.photoembed {
+  padding-bottom: 30px;
+}
+
+.margin {
+  margin-bottom: 45px;
+}
+
+.bg-1 {
+  background-color: #2D3142;
+  color: #BFC0C0;
+}
+
+.bg-2 {
+  background-color: #BFC0C0;
+  color: #2D3142;
+}
+
+.socialPad {
+  padding-top: 21px;
+}
+
+.gallery img {
+  width: 500px;
+  padding: 40px;
+}
